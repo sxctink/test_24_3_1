@@ -1,0 +1,3 @@
+https://sxctink.github.io
+创建个人站点-》新建仓库（仓库名为：用户名.github.io）
+在仓库下新建index.html文件即可

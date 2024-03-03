@@ -1,0 +1,8 @@
+新建文件：
+vi name.txt
+添加到缓冲区：
+git add name.txt
+提交文件：
+git commit -m '提示内容'
+合并本地分支内容到远程仓库
+git push
